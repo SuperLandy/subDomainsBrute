@@ -4,8 +4,6 @@ A fast sub domain brute tool for pentesters.
 
 本工具用于渗透测试目标域名收集。高并发DNS暴力枚举，发现其他工具无法探测到的域名, 如Google，aizhan，fofa。
 
-You can get older versions via [https://github.com/lijiejie/subDomainsBrute/releases](https://github.com/lijiejie/subDomainsBrute/releases)
-
 
 ## Change Log 
 
@@ -45,9 +43,3 @@ You can get older versions via [https://github.com/lijiejie/subDomainsBrute/rele
 
 
 ## Screenshot ##
-
-如图，使用大字典扫描 qq.com，发现去重后域名3693个，每秒可扫描3000个域名。
-
-![screenshot](screenshot.png)
-
-From [http://www.lijiejie.com](http://www.lijiejie.com)
